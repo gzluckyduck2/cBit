@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
-        "cbit_IR":  "../cBit_IR-master/cBit_IR"
+        "cbit_IR":  "cBit_IR"
 	
 
     },
